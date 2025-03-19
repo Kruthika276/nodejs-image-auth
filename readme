@@ -1,0 +1,5 @@
+This includes:
+Basic login form and authentication system.
+An image model where only admin uploads and users get to see the images but cannot modify the image.
+Whoever uploads the image, only they have the control over the image whther deleting or anything.
+Paging : each page includes only 2 images or so.
